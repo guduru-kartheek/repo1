@@ -3,3 +3,5 @@ This is line 2
 this is line 3 on local branch b1
 this is line 4 on remote branch b1
 line 5 on local branch b1
+  
+   line 6 on remote branch main 
