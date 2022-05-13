@@ -1,3 +1,4 @@
 This is cool day
 This is line 2
 this is line 3 on local branch b1
+this is line 4 on remote branch b1
